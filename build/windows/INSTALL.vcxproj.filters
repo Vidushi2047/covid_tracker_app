@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Desktop\flutter_ui\covid_tracker\build\windows\CMakeFiles\20efa00878f64488323d20be395a2bde\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3B30ADCA-B24C-3B14-A66C-CED13339F4B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

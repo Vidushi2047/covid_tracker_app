@@ -1,0 +1,10 @@
+^C:\USERS\DELL\DESKTOP\FLUTTER_UI\COVID_TRACKER\BUILD\WINDOWS\CMAKEFILES\20EFA00878F64488323D20BE395A2BDE\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

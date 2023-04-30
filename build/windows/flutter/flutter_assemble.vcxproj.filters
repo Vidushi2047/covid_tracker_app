@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Desktop\flutter_ui\covid_tracker\build\windows\CMakeFiles\76970f7b2c3d324e28364aea66952856\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\flutter_ui\covid_tracker\build\windows\CMakeFiles\1cda576a2b204c2a647aeef0235cc41b\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DELL\Desktop\flutter_ui\covid_tracker\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DELL\Desktop\flutter_ui\covid_tracker\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3B30ADCA-B24C-3B14-A66C-CED13339F4B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
